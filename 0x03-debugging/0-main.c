@@ -4,6 +4,7 @@
   * main - tests function that prints correct output
   * Return: Always 0
   */
+
 int main(void)
 {
 	int i;
