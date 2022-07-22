@@ -3,6 +3,7 @@
 /**
   * print_diagonal - displays \n if n = 0 otherwise display \
   * @n: the number of times the xter is printed
+  * @n: the number of times the xter is printed
   */
 void print_diagonal(int n)
 {
